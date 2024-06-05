@@ -65,15 +65,15 @@
       <div class="grid-steps">
         <div class="item-step" style="background-image: url(images/boba_card1.png)!important; background-size: cover;">
           <div class="boba-number">1</div>
-          <p class="item-text">Build a website</p>
+          <p class="item-text">Show us you are a certified International/Grandmaster</p>
         </div>
         <div class="item-step" style="background-image: url(images/boba_card2.png)!important; background-size: cover;">
           <div class="boba-number">2</div>
-          <p class="item-text">Host it on GitHub</p>
+          <p class="item-text">Show us you are approved to be a Chess Coach</p>
         </div>
         <div class="item-step" style="background-image: url(images/boba_card3.png)!important; background-size: cover; background-position: bottom;">
           <div class="boba-number">3</div>
-          <p class="item-text">Buy yourself boba!</p>
+          <p class="item-text">Get interviewed</p>
         </div>
         <div class="item-step" style="background-image: url(images/boba_card4.png)!important; background-size: cover; background-position: bottom;">
           <div class="boba-number">4</div>
