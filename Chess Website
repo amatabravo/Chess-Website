@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Improve your Chess Skills!</title>
+<link rel="CSS Chess Website" type="text/css" href="CSS Chess Website.css">
   <!-- Meta -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=450">
