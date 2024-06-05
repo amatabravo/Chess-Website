@@ -36,9 +36,7 @@
         <p> Welcome to the "opening" of my website. Here you can get advice from chess coaches all over the world. We
         offer free courses to help shape and sharpen your opening, middlegame, and endgame in chess. 
           
-          <a href="https://github.com/hackclub/boba-drops/blob/ffdaa3d3db334eb8904313274f5a46c0cc60298c/index.html#L60" target="_blank">
-            <!-- yep, you just read that! -->
-            just like this page</a>.
+         
         </p>
         <h3>Take a sip...</h3>
         <p>
@@ -50,11 +48,11 @@
           <li>this website itself • <a href="https://github.com/chessclub/chess-website">the code</a></li>
           <li><a href="https://chesspro.com/">ChessPro</a> • <a href="https://github.com/chesspro/chesspro-website">the code</a></li>
         </ul>
-        <p>More of a social coder? You can also <a href="https://hackclub.com/slack?event=boba">hang out online with other high schoolers</a> learning to build their first websites</p>
-        <h3>Spill the tea...</h3>
+        <p> Are you a chess grandmaster? Lucky for you, our website is not just intermediate and beginner players</p>
+        <h3>You can apply to become a chess coach following these steps</h3>
         <p>
           <em>
-            Share your site out in the world to get $5 for buying yourself boba.
+            Contact our email
           </em>
         </p>
       </div>
