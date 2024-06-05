@@ -2,7 +2,16 @@
 <html>
 <head>
   <title>Improve your Chess Skills!</title>
-<link rel="stylesheet" type="text/css" href="styles.css">
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        /* Add more CSS rules as needed */
+    </style>
   <!-- Meta -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=450">
