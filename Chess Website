@@ -2,16 +2,7 @@
 <html>
 <head>
   <title>Improve your Chess Skills!</title>
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-        }
-        h1 {
-            color: #333;
-        }
-        /* Add more CSS rules as needed */
-    </style>
+
   <!-- Meta -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=450">
@@ -78,7 +69,7 @@
           <p class="item-text">Show us you are a certified International/Grandmaster</p>
         </div>
         <div class="item-step" style="background-image: url(images/boba_card2.png)!important; background-size: cover;">
-          <div class="boba-number">2</div>
+          <div class="chess-number">2</div>
           <p class="item-text">Show us you are approved to be a Chess Coach</p>
         </div>
         <div class="item-step" style="background-image: url(images/boba_card3.png)!important; background-size: cover; background-position: bottom;">
@@ -86,7 +77,7 @@
           <p class="item-text">Get interviewed</p>
         </div>
         <div class="item-step" style="background-image: url(images/boba_card4.png)!important; background-size: cover; background-position: bottom;">
-          <div class="boba-number">4</div>
+          <div class="chess-number">4</div>
           <p class="item-text">Enjoy!</p>
         </div>
       </div>
